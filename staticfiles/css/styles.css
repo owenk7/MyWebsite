@@ -76,6 +76,12 @@
   }
 }
 
+.picture-size {
+  width: 200px; /* or any other desired value */
+  height: 200px; /* or any other desired value */
+}
+
+
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);
