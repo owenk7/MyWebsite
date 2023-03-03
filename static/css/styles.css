@@ -7724,7 +7724,7 @@ textarea.form-control-lg {
 /* rtl:end:remove */
 .text-primary {
   --bs-text-opacity: 1;
-  color: #FFC107, var(--bs-text-opacity) !important;
+  color: (#FFC107, var(--bs-text-opacity)) !important;
 }
 
 .text-secondary {
